@@ -29,7 +29,7 @@ public class RetrieveApi {
 	
 	Map<String, Object> projectList=new HashMap<String,Object>();
 	Set<String> existingRecords=new HashSet<String>();
-	String filePath="/target/TestOutput/Output.xls";
+	String filePath="/src/TestOutput/Output.xls";
 
 	@BeforeClass
 	public void setupResourcesForTest() {
