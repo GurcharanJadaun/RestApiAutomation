@@ -1,0 +1,28 @@
+{
+"KeySet1":{
+ "key1":"project_name",
+ "key2":"project_type",
+ "key3":"description",
+ "key4":"sqft",
+ "key5":"estimated_project_valuation",
+ "key6":"number",
+ "key7":"notice_type",
+ "key8":"address",
+ "key9":"city",
+ "key10":"state",
+ "key11":"zipcode",
+ "key12":"contact",
+ "key13":"contact_phone",
+ "key14":"contact_email",
+ "key15":"contact_address",
+ "key16":"owner",
+ "key17":"architect",
+ "key18":"open_date",
+ "key19":"added_time_stamp",
+ "key20":"status",
+ "key21":"close_date",
+ "key22":"link",
+ "key23":"type",
+ "key24":"construction_start_date"
+ }
+}
